@@ -10,9 +10,9 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Informatics Enginering. </br>
+    - :keyboard: I’m currently learning Informatics Engineering. </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:alhadilangsa54321@gmail.com">Email me!</a>  </br>
+    - :mailbox: How to reach me: <a href="alhadilangsa54321@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: He/Him. </br>
     - :game_die: Scrolling and Play are part of me. </br>
 <p>
