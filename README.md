@@ -55,8 +55,8 @@
 ###
 
 <br clear="both">
-
-![Pacman Animation](https://raw.githubusercontent.com/AlhadiAzumi/AlhadiAzumi/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AlhadiAzumi/AlhadiAzumi/output/github-contribution-grid-pacman.svg" />
+</div>
 
 ###
