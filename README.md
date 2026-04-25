@@ -56,7 +56,7 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AlhadiAzumi/AlhadiAzumi/output/github-contribution-grid-pacman.svg" />
+  <img src="https://raw.githubusercontent.com/AlhadiAzumi/AlhadiAzumi/output/pacman-contribution-graph-dark.svg" alt="Pacman Animation" />
 </div>
 
 ###
