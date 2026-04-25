@@ -56,7 +56,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AlhadiAzumi/AlhadiAzumi/output/pacman.svg" alt="pacman animation" />
+![Pacman Animation](https://raw.githubusercontent.com/AlhadiAzumi/AlhadiAzumi/output/github-contribution-grid-snake.svg)
 
 
 ###
