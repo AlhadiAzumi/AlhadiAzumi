@@ -40,7 +40,7 @@
   <a href="mailto:alhadiazumifw@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/alhadi-azumi-4ab738353" target="_blank">
+  <a href="www.linkedin.com/in/alhadiazumi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://linktr.ee/alhdzm" target="_blank">
