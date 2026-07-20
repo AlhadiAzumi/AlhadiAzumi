@@ -1,4 +1,6 @@
- <h2> Hi, I'm Alhadi Azumi! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGV0Mjk5cWlweDkweXEwN3c4bHJsdHJrNm5laHN1cWhheWQ0eGZpOSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/kXixecGzl2gBlpO4SQ/giphy.gif" width="40" align="center"></h2>
+<div align="center">
+  <h2> Hi, I'm Alhadi Azumi! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGV0Mjk5cWlweDkweXEwN3c4bHJsdHJrNm5laHN1cWhheWQ0eGZpOSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/kXixecGzl2gBlpO4SQ/giphy.gif" width="40" align="center"></h2>
+</div>
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmxxeW1yYzk5eGliY3JubmQ2bzc5MDBta3B2bWExMWp1MWpyN3RwMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="230">
 
@@ -32,12 +34,19 @@ const hadi = {
   challenge: "Currently exploring advanced web development and building interactive interfaces!"
 }
 ```
+
 <br>
-<br clear="both">
+
+<h3 align="center">👾 GitHub Contributions</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/AlhadiAzumi/AlhadiAzumi/output/pacman-contribution-graph-dark.svg" alt="Pacman Animation" />
 </div>
+
 <br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVzZGg5dm1pNmpxM3ZvbHhyNmt5ZzZ5amF5dGg2MjQ5ZXpwdzV0byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/D3TKAKpok8rKsiS8Yi/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVzZGg5dm1pNmpxM3ZvbHhyNmt5ZzZ5amF5dGg2MjQ5ZXpwdzV0byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/D3TKAKpok8rKsiS8Yi/giphy.gif" width="60" align="center"> 
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</p>
 
 ---
