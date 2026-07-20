@@ -1,6 +1,6 @@
 <h2> Hi, I'm Alhadi Azumi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Informatics Engineering Student at <a href="https://pnl.ac.id/">State Polytechnic of Lhokseumawe</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG03cWZqOGVnejNhczg5NzhmcHlrdXdrYnlhOWxqc3dyYW02NmN0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dNgK7Ws7y176U/giphy.gif" width="30"></br>Teach Entusiast at <a href="https://earth.google.com/web/">everywhere</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Informatics Engineering Student at <a href="https://pnl.ac.id/">State Polytechnic of Lhokseumawe</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdwN3Z4OWdsY25nM3BnNnFmcDR2ZGVjMm13dXJ1d3JrMXJtbnV6cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YGIpIZjgxL68w/giphy.gif" width="30"></br>Teach Entusiast at <a href="https://earth.google.com/web/">everywhere</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-AlhadiAzumi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AlhadiAzumi/)](https://www.linkedin.com/in/AlhadiAzumi/)
