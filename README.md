@@ -1,13 +1,22 @@
-<h2> Hi, I'm Alhadi Azumi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Informatics Engineering Student at <a href="https://pnl.ac.id/">State Polytechnic of Lhokseumawe</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdwN3Z4OWdsY25nM3BnNnFmcDR2ZGVjMm13dXJ1d3JrMXJtbnV6cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YGIpIZjgxL68w/giphy.gif" width="30"></br>Teach Entusiast at <a href="https://earth.google.com/web/">everywhere</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<div align="center">
+  <h2> Hi, I'm Alhadi Azumi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" align="center"></h2>
+</div>
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ3dDM5OXdlYTRtN3NmN2l3cnBydWZvYzZtajg2bTMyM2h4dzl1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="230">
+
+<p><em>Informatics Engineering Student at <a href="https://pnl.ac.id/">State Polytechnic of Lhokseumawe</a> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG03cWZqOGVnejNhczg5NzhmcHlrdXdrYnlhOWxqc3dyYW02NmN0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dNgK7Ws7y176U/giphy.gif" width="25" align="center"><br>
+Tech Enthusiast at <a href="https://earth.google.com/web/">everywhere</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" align="center"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-AlhadiAzumi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AlhadiAzumi/)](https://www.linkedin.com/in/AlhadiAzumi/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/AlhadiAzumi?label=follow&style=social)](https://github.com/AlhadiAzumi)
+<p>
+  <a href="https://www.linkedin.com/in/AlhadiAzumi/"><img src="https://img.shields.io/badge/-AlhadiAzumi-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://github.com/AlhadiAzumi"><img src="https://img.shields.io/github/followers/AlhadiAzumi?label=follow&style=social"></a>
+</p>
 
+<!-- Tag ini yang menghentikan elemen agar tidak nabrak GIF di kanan -->
+<br clear="both">
 
-### <img src="https://media.licdn.com/dms/image/v2/D5603AQHsxQP0Fgg_1Q/profile-displayphoto-crop_800_800/B56ZfI22blGQAI-/0/1751421512421?e=1785974400&v=beta&t=BaOSbAKRtQdNljnQ-r9vZhUxONQMZC84mMr1jB8e0uE" width="50"> A little more about me...  
+### <img src="https://media.licdn.com/dms/image/v2/D5603AQHsxQP0Fgg_1Q/profile-displayphoto-crop_800_800/B56ZfI22blGQAI-/0/1751421512421?e=1785974400&v=beta&t=BaOSbAKRtQdNljnQ-r9vZhUxONQMZC84mMr1jB8e0uE" width="50" align="center" style="border-radius: 50%;"> A little more about me...  
 
 ```javascript
 const hadi = {
