@@ -1,7 +1,9 @@
 <!-- BAGIAN HEADER DENGAN ANIMASI NGETIK -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&color=36BCF7&vCenter=true&width=500&lines=Hi%2C+I'm+Alhadi+Azumi!&repeat=false" alt="Typing SVG" />
-</a>
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&color=36BCF7&vCenter=true&width=430&lines=Hi%2C+I'm+Alhadi+Azumi!&repeat=false" alt="Typing SVG" />
+  </a> 👋
+</h1>
 
 ---
 
