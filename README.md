@@ -1,6 +1,4 @@
-<div align="center">
-  <h2> Hi, I'm Alhadi Azumi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" align="center"></h2>
-</div>
+ <h2> Hi, I'm Alhadi Azumi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" align="center"></h2>
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ3dDM5OXdlYTRtN3NmN2l3cnBydWZvYzZtajg2bTMyM2h4dzl1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="230">
 
@@ -16,7 +14,7 @@ Tech Enthusiast at <a href="https://earth.google.com/web/">everywhere</a> <img s
 <!-- Tag ini yang menghentikan elemen agar tidak nabrak GIF di kanan -->
 <br clear="both">
 
-### <img src="https://media.licdn.com/dms/image/v2/D5603AQHsxQP0Fgg_1Q/profile-displayphoto-crop_800_800/B56ZfI22blGQAI-/0/1751421512421?e=1785974400&v=beta&t=BaOSbAKRtQdNljnQ-r9vZhUxONQMZC84mMr1jB8e0uE" width="50" align="center" style="border-radius: 50%;"> A little more about me...  
+### <img src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" align="center" style="border-radius: 50%;"> A little more about me...  
 
 ```javascript
 const hadi = {
