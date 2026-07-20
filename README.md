@@ -1,8 +1,8 @@
- <h2> Hi, I'm Alhadi Azumi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" align="center"></h2>
+ <h2> Hi, I'm Alhadi Azumi! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGV0Mjk5cWlweDkweXEwN3c4bHJsdHJrNm5laHN1cWhheWQ0eGZpOSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/kXixecGzl2gBlpO4SQ/giphy.gif" width="40" align="center"></h2>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ3dDM5OXdlYTRtN3NmN2l3cnBydWZvYzZtajg2bTMyM2h4dzl1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="230">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmxxeW1yYzk5eGliY3JubmQ2bzc5MDBta3B2bWExMWp1MWpyN3RwMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="230">
 
-<p><em>Informatics Engineering Student at <a href="https://pnl.ac.id/">State Polytechnic of Lhokseumawe</a> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG03cWZqOGVnejNhczg5NzhmcHlrdXdrYnlhOWxqc3dyYW02NmN0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dNgK7Ws7y176U/giphy.gif" width="25" align="center"><br>
+<p><em>Informatics Engineering Student at <a href="https://pnl.ac.id/">State Polytechnic of Lhokseumawe</a> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmtzdmZleGJsYWFwNDdzMWI1bG1wbTh2OTNyeXBxbnBiajNya2RtYSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/6KirhLJyR7oMcwgJQk/giphy.gif" width="25" align="center"><br>
 Tech Enthusiast at <a href="https://earth.google.com/web/">everywhere</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" align="center"> 
 </em></p>
 
@@ -38,6 +38,6 @@ const hadi = {
   <img src="https://raw.githubusercontent.com/AlhadiAzumi/AlhadiAzumi/output/pacman-contribution-graph-dark.svg" alt="Pacman Animation" />
 </div>
 <br>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5kcHNhNmVwY3g3ZzlpemtlMmc4YTRlaXAwNHpzcXppc2cyem9yNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umxRbhpV3joNMeS4Xx/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVzZGg5dm1pNmpxM3ZvbHhyNmt5ZzZ5amF5dGg2MjQ5ZXpwdzV0byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/D3TKAKpok8rKsiS8Yi/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
