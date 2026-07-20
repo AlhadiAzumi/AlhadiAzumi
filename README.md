@@ -1,7 +1,6 @@
   <!-- BAGIAN HEADER DENGAN ANIMASI NGETIK -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Alhadi+Azumi!;
-      Informatics+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Alhadi+Azumi!;Informatics+Engineering+Student" alt="Typing SVG" />
   </a>
   <!-- Stiker waving yang asli tetap di sini -->
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGV0Mjk5cWlweDkweXEwN3c4bHJsdHJrNm5laHN1cWhheWQ0eGZpOSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/kXixecGzl2gBlpO4SQ/giphy.gif" width="80" align="center" style="margin-top: -15px;">
