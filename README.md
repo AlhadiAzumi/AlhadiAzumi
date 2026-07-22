@@ -105,5 +105,3 @@ const hadi = {
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVzZGg5dm1pNmpxM3ZvbHhyNmt5ZzZ5amF5dGg2MjQ5ZXpwdzV0byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/D3TKAKpok8rKsiS8Yi/giphy.gif" width="60" align="center"> 
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </p>
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-</p>
