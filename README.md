@@ -80,7 +80,7 @@ const hadi = {
 - **Teman Setia:** VS Code, Figma, *terminal* Linux, dan pastinya masakan nyokap yang jadi *ultimate fuel* pas lagi *stuck* nge-*debug code*!
 
 <br>
-
+<hr>
 <details>
 <summary><b>🌿 Motto & Personal Note (klik untuk buka/tutup)</b></summary>
 <br>
@@ -89,7 +89,6 @@ const hadi = {
 </p>
 </details>
 
-<br>
 <hr>
 <br>
 
