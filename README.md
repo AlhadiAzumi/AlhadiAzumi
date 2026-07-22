@@ -20,8 +20,9 @@ Tech Enthusiast at <a href="https://earth.google.com/web/">everywhere</a> <img s
 
 <!-- Tag ini yang menghentikan elemen agar tidak nabrak GIF di kanan -->
 <br clear="both">
+
 ---
-<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Aceh,%20Indonesia-019267?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Software--Engineer-ff758c?style=for-the-badge&logo=server&logoColor=white"/>
@@ -36,7 +37,9 @@ Tech Enthusiast at <a href="https://earth.google.com/web/">everywhere</a> <img s
     <img src="https://img.shields.io/badge/Linktree-hadicodes-43e55e?style=for-the-badge&logo=linktree"/>
   </a>
 </p>
+
 ---
+
 ### <img src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" align="center" style="border-radius: 50%;"> A little more about me...  
 
 ```javascript
@@ -54,7 +57,6 @@ const hadi = {
   },
   challenge: "Currently exploring advanced web development and building interactive interfaces!"
 }
-```
 
 <br>
 
