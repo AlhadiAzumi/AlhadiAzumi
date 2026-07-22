@@ -5,7 +5,7 @@
   </a>
 </h3>
 
----
+<hr>
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmxxeW1yYzk5eGliY3JubmQ2bzc5MDBta3B2bWExMWp1MWpyN3RwMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="230">
 
@@ -21,7 +21,7 @@ Tech Enthusiast at <a href="https://earth.google.com/web/">everywhere</a> <img s
 <!-- Tag ini yang menghentikan elemen agar tidak nabrak GIF di kanan -->
 <br clear="both">
 
----
+<hr>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Aceh,%20Indonesia-019267?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -38,7 +38,7 @@ Tech Enthusiast at <a href="https://earth.google.com/web/">everywhere</a> <img s
   </a>
 </p>
 
----
+<hr>
 
 ### <img src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" align="center" style="border-radius: 50%;"> A little more about me...  
 
@@ -57,7 +57,7 @@ const hadi = {
   },
   challenge: "Currently exploring advanced web development and building interactive interfaces!"
 }
-
+```
 <br>
 
 <h3 align="center">👾 GitHub Contributions</h3>
