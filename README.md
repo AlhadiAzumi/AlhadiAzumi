@@ -53,25 +53,25 @@ const hadi = {
   challenge: "Currently exploring advanced web development and building interactive interfaces!"
 }
 ```
-<br>
+
 ## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,typescript,react,vue,nodejs,python,docker,nginx,linux,bash,git,mysql,sqlite,cloudflare" />
 </p>
-<br>
+
 ## 💡 Fun Facts & Inside Hadi
 
 - **Pagi:** *Start the day* dengan rutinitas *weight training* buat *boost energy*, lanjut cari referensi UI/UX atau ngerapiin *layout* desain.
 - **Malam:** *Deep work mode on!* Waktunya fokus nge-*build interactive interfaces*, *explore* JavaScript, dan ngulik *web development*.
 - **Tambahan:** Nge-*tweak environment* Linux kesayangan, *explore graphic design*, dan nyiapin *setup local environment* buat eksekusi *project* baru.
 - **Teman Setia:** VS Code, Figma, *terminal* Linux, dan pastinya masakan nyokap yang jadi *ultimate fuel* pas lagi *stuck* nge-*debug code*!
-<br>
+
 <details>
 <summary><b>🌿 Motto & Personal Note (klik untuk buka/tutup)</b></summary>
 <br>
 <p align="center" style="font-size:1.13em;">
-🌱 <i>Mulai aja dulu, refactor kemudian. Always prioritize progress over perfection, karena bug hari ini adalah lesson berharga buat besok</i>
+🌱 <i>Mulai aja dulu, refactor kemudian. Always prioritize progress over perfection, karena bug hari ini adalah lesson berharga buat besok.</i>
 </p>
 </details>
 
