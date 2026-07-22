@@ -66,7 +66,8 @@ const hadi = {
   challenge: "Currently exploring advanced web development and building interactive interfaces!"
 }
 ```
-<hr
+<br> 
+
 ## Tech Stack
 
 <p align="center">
