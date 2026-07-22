@@ -5,8 +5,6 @@
   </a>
 </h3>
 
-<hr>
-
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmxxeW1yYzk5eGliY3JubmQ2bzc5MDBta3B2bWExMWp1MWpyN3RwMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="230">
 
 <p><em>Informatics Engineering Student at <a href="https://pnl.ac.id/">State Polytechnic of Lhokseumawe</a> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmtzdmZleGJsYWFwNDdzMWI1bG1wbTh2OTNyeXBxbnBiajNya2RtYSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/6KirhLJyR7oMcwgJQk/giphy.gif" width="25" align="center"><br>
@@ -35,11 +33,10 @@ Tech Enthusiast at <a href="https://earth.google.com/web/">everywhere</a> <img s
     <img src="https://img.shields.io/badge/Linktree-hadicodes-43e55e?style=for-the-badge&logo=linktree"/>
   </a>
 </p>
-<hr>
 
 ---
-<h3>
-<img src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" align="center" style="border-radius: 50%;"> A little more about me... </h3>
+<h2>
+<img src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" align="center" style="border-radius: 50%;"> A little more about me... </h2>
 
 ```javascript
 const hadi = {
@@ -57,16 +54,12 @@ const hadi = {
   challenge: "Currently exploring advanced web development and building interactive interfaces!"
 }
 ```
-<br> 
 
 ## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,typescript,react,vue,nodejs,python,docker,nginx,linux,bash,git,mysql,sqlite,cloudflare" />
 </p>
-
----
-
 
 ## 💡 Fun Facts & Inside Hadi
 
@@ -75,7 +68,6 @@ const hadi = {
 - **Tambahan:** Nge-*tweak environment* Linux kesayangan, *explore graphic design*, dan nyiapin *setup local environment* buat eksekusi *project* baru.
 - **Teman Setia:** VS Code, Figma, *terminal* Linux, dan pastinya masakan nyokap yang jadi *ultimate fuel* pas lagi *stuck* nge-*debug code*!
 
----
 <details>
 <summary><b>🌿 Motto & Personal Note (klik untuk buka/tutup)</b></summary>
 <br>
@@ -83,7 +75,8 @@ const hadi = {
 🌱 <i>Mulai aja dulu, refactor kemudian. Always prioritize progress over perfection, karena bug hari ini adalah lesson berharga buat besok</i>
 </p>
 </details>
----
+
+<hr>
 
 <h3 align="center">👾 GitHub Contributions</h3>
 <div align="center">
