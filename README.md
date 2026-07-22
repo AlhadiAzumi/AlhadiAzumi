@@ -76,6 +76,18 @@ const hadi = {
 
 <br>
 
+---
+
+
+## 💡 Fun Facts & Inside Hadi
+
+- **Pagi:** *Start the day* dengan rutinitas *weight training* buat *boost energy*, lanjut cari referensi UI/UX atau ngerapiin *layout* desain.
+- **Malam:** *Deep work mode on!* Waktunya fokus nge-*build interactive interfaces*, *explore* JavaScript, dan ngulik *web development*.
+- **Tambahan:** Nge-*tweak environment* Linux kesayangan, *explore graphic design*, dan nyiapin *setup local environment* buat eksekusi *project* baru.
+- **Teman Setia:** VS Code, Figma, *terminal* Linux, dan pastinya masakan nyokap yang jadi *ultimate fuel* pas lagi *stuck* nge-*debug code*!
+
+---
+
 <h3 align="center">👾 GitHub Contributions</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/AlhadiAzumi/AlhadiAzumi/output/pacman-contribution-graph-dark.svg" alt="Pacman Animation" />
