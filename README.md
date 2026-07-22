@@ -23,8 +23,6 @@ Tech Enthusiast at <a href="https://earth.google.com/web/">everywhere</a> <img s
 ---
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlhadiAzumi&style=flat-square&color=fd5c63" alt="Profile Views" />
-  <br><br>
   <img src="https://img.shields.io/badge/Aceh,%20Indonesia-019267?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Software--Engineer-ff758c?style=for-the-badge&logo=server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux%20Enthusiast-333c44?style=for-the-badge&logo=linux&logoColor=white"/>
