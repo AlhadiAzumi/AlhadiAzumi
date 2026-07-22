@@ -4,7 +4,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1500&color=36BCF7&vCenter=true&width=600&lines=Hi%2C+welcome+to+my+profile!;I'm+Alhadi+Azumi;A+Passionate+Web+Developer;Let's+build+something+cool!" alt="Typing SVG" />
   </a>
 </h3>
+
 <hr>
+<br>
+
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmxxeW1yYzk5eGliY3JubmQ2bzc5MDBta3B2bWExMWp1MWpyN3RwMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="230">
 
 <p><em>Informatics Engineering Student at <a href="https://pnl.ac.id/">State Polytechnic of Lhokseumawe</a> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmtzdmZleGJsYWFwNDdzMWI1bG1wbTh2OTNyeXBxbnBiajNya2RtYSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/6KirhLJyR7oMcwgJQk/giphy.gif" width="25" align="center"><br>
@@ -18,6 +21,7 @@ Tech Enthusiast at <a href="https://earth.google.com/web/">everywhere</a> <img s
 
 <!-- Tag ini yang menghentikan elemen agar tidak nabrak GIF di kanan -->
 <br clear="both">
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Aceh,%20Indonesia-019267?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -33,7 +37,10 @@ Tech Enthusiast at <a href="https://earth.google.com/web/">everywhere</a> <img s
     <img src="https://img.shields.io/badge/Linktree-hadicodes-43e55e?style=for-the-badge&logo=linktree"/>
   </a>
 </p>
+
 <br>
+<br>
+
 <h2>
 <img src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" align="center" style="border-radius: 50%;"> A little more about me... </h2>
 
@@ -53,12 +60,14 @@ const hadi = {
   challenge: "Currently exploring advanced web development and building interactive interfaces!"
 }
 ```
-
 ## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,typescript,react,vue,nodejs,python,docker,nginx,linux,bash,git,mysql,sqlite,cloudflare" />
 </p>
+
+<br>
+<br>
 
 ## 💡 Fun Facts & Inside Hadi
 
@@ -66,6 +75,8 @@ const hadi = {
 - **Malam:** *Deep work mode on!* Waktunya fokus nge-*build interactive interfaces*, *explore* JavaScript, dan ngulik *web development*.
 - **Tambahan:** Nge-*tweak environment* Linux kesayangan, *explore graphic design*, dan nyiapin *setup local environment* buat eksekusi *project* baru.
 - **Teman Setia:** VS Code, Figma, *terminal* Linux, dan pastinya masakan nyokap yang jadi *ultimate fuel* pas lagi *stuck* nge-*debug code*!
+
+<br>
 
 <details>
 <summary><b>🌿 Motto & Personal Note (klik untuk buka/tutup)</b></summary>
@@ -75,7 +86,9 @@ const hadi = {
 </p>
 </details>
 
+<br>
 <hr>
+<br>
 
 <h3 align="center">👾 GitHub Contributions</h3>
 <div align="center">
@@ -83,8 +96,11 @@ const hadi = {
 </div>
 
 <br>
+<br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVzZGg5dm1pNmpxM3ZvbHhyNmt5ZzZ5amF5dGg2MjQ5ZXpwdzV0byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/D3TKAKpok8rKsiS8Yi/giphy.gif" width="60" align="center"> 
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</p>
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </p>
