@@ -38,12 +38,8 @@ Tech Enthusiast at <a href="https://earth.google.com/web/">everywhere</a> <img s
   </a>
 </p>
 
-<hr>
-
----
-
 <details>
-<summary><b>🌿 Motto & Personal Note (klik untuk buka/utup)</b></summary>
+<summary><b>🌿 Motto & Personal Note (klik untuk buka/tutup)</b></summary>
 <br>
 <p align="center" style="font-size:1.13em;">
 🌱 <i>Mulai aja dulu, refactor kemudian. Always prioritize progress over perfection, karena bug hari ini adalah lesson berharga buat besok</i>
