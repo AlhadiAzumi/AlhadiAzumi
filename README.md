@@ -37,7 +37,7 @@ Tech Enthusiast at <a href="https://earth.google.com/web/">everywhere</a> <img s
     <img src="https://img.shields.io/badge/Linktree-hadicodes-43e55e?style=for-the-badge&logo=linktree"/>
   </a>
 </p>
-
+<hr>
 <details>
 <summary><b>🌿 Motto & Personal Note (klik untuk buka/tutup)</b></summary>
 <br>
