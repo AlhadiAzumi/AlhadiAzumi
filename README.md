@@ -64,9 +64,9 @@ const hadi = {
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?
-    i=html,css,js,php,cpp,python,linux,bash,mysql,git,linux,vscode,figma,canva" />
+    i=html,css,js,php,cpp,python,linux,bash,mysql,git,linux,vscode,figma" />
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,nodejs,python,linux,vscode,figma,canva,bash,git,mysql,sqlite,cloudflare" />
 </p>
 
 <br>
