@@ -6,7 +6,6 @@
 </h3>
 
 <hr>
-<br>
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmxxeW1yYzk5eGliY3JubmQ2bzc5MDBta3B2bWExMWp1MWpyN3RwMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="230">
 
@@ -66,7 +65,8 @@ const hadi = {
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,typescript,react,vue,nodejs,python,docker,nginx,linux,bash,git,mysql,sqlite,cloudflare" />
+  <img src="https://skillicons.dev/icons?
+    i=html,css,js,php,cpp,python,linux,bash,mysql,git,linux,vscode,figma,canva" />
 </p>
 
 <br>
