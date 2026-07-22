@@ -66,6 +66,14 @@ const hadi = {
   challenge: "Currently exploring advanced web development and building interactive interfaces!"
 }
 ```
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,typescript,react,vue,nodejs,python,docker,nginx,linux,bash,git,mysql,sqlite,cloudflare" />
+</p>
+---
+
 <br>
 
 <h3 align="center">👾 GitHub Contributions</h3>
