@@ -84,7 +84,7 @@ const hadi = {
 <summary><b>🌿 Motto & Personal Note (klik untuk buka/tutup)</b></summary>
 <br>
 <p align="center" style="font-size:1.13em;">
-🌱 <i>Mulai aja dulu, refactor kemudian. Always prioritize progress over perfection, karena bug hari ini adalah lesson berharga buat besok.</i>
+🌱 <i>Mulai aja dulu, refactor kemudian. Always prioritize progress over perfection, karena bug hari ini adalah lesson berharga buat besok:'.</i>
 </p>
 </details>
 
