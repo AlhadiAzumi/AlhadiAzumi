@@ -54,7 +54,7 @@ const hadi = {
   ],
   interests: {
     tech: ["Web Development", "UI/UX Design", "AI Engineer"],
-    lifestyle: ["Graphic Design", "Weight Training"]
+    lifestyle: ["Graphic Design", "Weight Training", "Web Developer"]
   },
   challenge: "Currently exploring advanced web development and building interactive interfaces!"
 }
