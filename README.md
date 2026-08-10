@@ -48,7 +48,7 @@ const hadi = {
   pronouns: "he" | "him",
   education: "Informatics Engineering at Politeknik Negeri Lhokseumawe",
   code: ["HTML", "JavaScript", "C++", "PHP", "CSS", "Python"],
-  tools: ["VS Code", "Git", "Figma", "MySQL", "Bash"],
+  tools: ["VS Code", "Git", "Figma", "MySQL", "Bash", "Canva"],
   achievements: [
     "1st Place National Science Olympiad (OSN) Informatics 2024 - City/Regency"
   ],
