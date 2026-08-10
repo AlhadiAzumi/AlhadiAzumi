@@ -47,7 +47,7 @@ Tech Enthusiast at <a href="https://earth.google.com/web/">Everywhere</a> <img s
 const hadi = {
   pronouns: "he" | "him",
   education: "Informatics Engineering at Politeknik Negeri Lhokseumawe",
-  code: ["HTML", "JavaScript", "C++", "PHP", "CSS"],
+  code: ["HTML", "JavaScript", "C++", "PHP", "CSS", "Python"],
   tools: ["VS Code", "Git", "Figma", "MySQL", "Bash"],
   achievements: [
     "1st Place National Science Olympiad (OSN) Informatics 2024 - City/Regency"
