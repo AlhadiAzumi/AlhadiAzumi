@@ -9,7 +9,7 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmxxeW1yYzk5eGliY3JubmQ2bzc5MDBta3B2bWExMWp1MWpyN3RwMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="230">
 
-<p><em>Informatic Engineering Student at <a href="https://pnl.ac.id/">State Polytechnic of Lhokseumawe</a> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmtzdmZleGJsYWFwNDdzMWI1bG1wbTh2OTNyeXBxbnBiajNya2RtYSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/6KirhLJyR7oMcwgJQk/giphy.gif" width="25" align="center"><br>
+<p><em>Informatics Engineering Student at <a href="https://pnl.ac.id/">State Polytechnic of Lhokseumawe</a> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmtzdmZleGJsYWFwNDdzMWI1bG1wbTh2OTNyeXBxbnBiajNya2RtYSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/6KirhLJyR7oMcwgJQk/giphy.gif" width="25" align="center"><br>
 Tech Enthusiast at <a href="https://earth.google.com/web/">Everywhere</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" align="center"> 
 </em></p>
 
