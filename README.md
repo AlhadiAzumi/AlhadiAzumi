@@ -53,7 +53,7 @@ const hadi = {
     "1st Place National Science Olympiad (OSN) Informatics 2024 - City/Regency"
   ],
   interests: {
-    tech: ["Web Development", "UI/UX Design", "AI Engineer"],
+    tech: ["Web Development", "UI/UX Designer", "AI Engineer"],
     lifestyle: ["Graphic Design", "Weight Training", "Web Developer"]
   },
   challenge: "Currently exploring advanced web development and building interactive interfaces!"
