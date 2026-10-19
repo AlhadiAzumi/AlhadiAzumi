@@ -50,7 +50,7 @@ const hadi = {
   code: ["HTML", "JavaScript", "C++", "PHP", "CSS", "Python"],
   tools: ["VS Code", "Git", "Figma", "MySQL", "Bash"],
   achievements: [
-    "1st Place National Science Olympiad (OSN) Informatics 2024 - City/Regency"
+    "1st Place National Science Olympiad (OSN) Informatics 2024 - City"
   ],
   interests: {
     tech: ["Web Development", "UI/UX Designer", "AI Engineer"],
