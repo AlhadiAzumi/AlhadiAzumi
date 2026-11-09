@@ -50,6 +50,7 @@ const hadi = {
   tools: ["VS Code", "Git", "Figma", "MySQL", "Bash"],
   achievements: [
     "1st Place National Science Olympiad (OSN) Informatics 2024 - Langsa City"
+    "2nd Place in Mini Hackathon Competition at MAKE IT FEST 3, FST UNSAM"
   ],
   interests: {
     tech: ["Web Development", "UI/UX Designer", "AI Engineering"],
