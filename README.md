@@ -5,14 +5,14 @@
 <h1 align="center">Alhadi Azumi <img src="./assets/spark.svg" width="34" height="34" alt="" /></h1>
 
 <p align="center">
-  <a href="[https://github.com/AlhadiAzumi](https://github.com/AlhadiAzumi)">
-    <img alt="Building intelligent systems. Exploring Computer Vision & AI. Crafting full-stack web apps." src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3400&pause=1100&color=79B8FF&center=true&vCenter=true&width=780&height=40&lines=Building+intelligent+systems.;Exploring+Computer+Vision+%26+AI.;Crafting+full-stack+web+apps](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3400&pause=1100&color=79B8FF&center=true&vCenter=true&width=780&height=40&lines=Building+intelligent+systems.;Exploring+Computer+Vision+%26+AI.;Crafting+full-stack+web+apps)." />
+  <a href="https://github.com/AlhadiAzumi">
+    <img alt="Building intelligent systems. Exploring Computer Vision & AI. Crafting full-stack web apps." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3400&pause=1100&color=79B8FF&center=true&vCenter=true&width=780&height=40&lines=Building+intelligent+systems.;Exploring+Computer+Vision+%26+AI.;Crafting+full-stack+web+apps." />
   </a>
 </p>
 
 <p align="center">
-  <a href="[https://sakuflow-mu.vercel.app](https://sakuflow-mu.vercel.app)">
-    <strong>🌐 Featured Project</strong>
+  <a href="https://sakuflow-mu.vercel.app">
+    <strong>🌐 Featured Project: SakuFlow</strong>
   </a>
 </p>
 
@@ -98,9 +98,12 @@ flowchart TD
     NEXT -.-> FUTURE["✦ Keep exploring<br/>Scalable AI Systems · Software Architecture"]
 
     %% Clickable nodes
-    click AI "https://github.com/AlhadiAzumi/SIGAP" "Explore AI & Computer Vision projects" _blank
-    click WEB "https://github.com/AlhadiAzumi/Lost-Found" "Explore Web Development projects" _blank
-    click NOW "https://github.com/AlhadiAzumi" "See current GitHub activity" _blank
+    click CORE "[https://github.com/AlhadiAzumi/Bank-Sampah-Digital-Berbasis-Java](https://github.com/AlhadiAzumi/Bank-Sampah-Digital-Berbasis-Java)" "Explore Java & OOP Systems" _blank
+    click AI "[https://github.com/AlhadiAzumi/SIGAP](https://github.com/AlhadiAzumi/SIGAP)" "Explore SIGAP Computer Vision" _blank
+    click AIP "[https://github.com/AlhadiAzumi/Website-Pengecekan-Jawaban-Pilgan](https://github.com/AlhadiAzumi/Website-Pengecekan-Jawaban-Pilgan)" "Explore Image Processing Project" _blank
+    click WEB "[https://github.com/AlhadiAzumi/Lost-Found](https://github.com/AlhadiAzumi/Lost-Found)" "Explore Full-Stack Web Projects" _blank
+    click WEBP "[https://github.com/AlhadiAzumi/SakuFlow](https://github.com/AlhadiAzumi/SakuFlow)" "Explore SakuFlow" _blank
+    click NOW "[https://github.com/AlhadiAzumi](https://github.com/AlhadiAzumi)" "See current GitHub activity" _blank
 
     %% Styles
     classDef guide fill:#302B44,stroke:#C4B5FD,color:#E9DDFF,stroke-width:1.5px,stroke-dasharray:4 4
@@ -124,14 +127,15 @@ flowchart TD
 
 <sub>A snapshot of my ongoing path — always iterating, building, and learning.</sub>
 
-### 📖 Certifications & Milestones
+### 📖 Certifications, Programs & Milestones
 
 | Area | Highlights |
 | :--- | :--- |
 | **Competitive Programming** | 1st Place — OSN Informatics Kota Langsa (2024) |
 | **AI & Computer Vision** | 2nd Place Mini Hackathon MAKE IT FEST 3 (SIGAP) · Dicoding Belajar Dasar AI · Mercor Model Mechanics & Agents |
-| **Python & Computing** | Scientific Computing with Python (freeCodeCamp) · Google Skills Arcade 2026 |
+| **Programs & Cloud** | Pijak 2027 (IBM SkillsBuild × Dicoding) · Scientific Computing with Python (freeCodeCamp) · Google Skills Arcade 2026 |
 | **Cybersecurity** | Certified Blue Team Fundamentals (BTF) · Certified Cyber Security Analyst (C3SA) |
+| **Campus & Leadership** | Digihub Staff — KOMIT PNL · Executive Secretary — Cyber Day 2026 · Project Manager — Campus Lost & Found |
 
 ---
 
@@ -139,36 +143,47 @@ flowchart TD
 
 <p>
   <strong>Languages</strong><br>
-  <img alt="Python" src="[https://img.shields.io/badge/Python-263748?style=flat-square&logo=python&logoColor=9CDCFE](https://img.shields.io/badge/Python-263748?style=flat-square&logo=python&logoColor=9CDCFE)">
-  <img alt="Java" src="[https://img.shields.io/badge/Java-263748?style=flat-square&logo=openjdk&logoColor=9CDCFE](https://img.shields.io/badge/Java-263748?style=flat-square&logo=openjdk&logoColor=9CDCFE)">
-  <img alt="C" src="[https://img.shields.io/badge/C-263748?style=flat-square&logo=c&logoColor=9CDCFE](https://img.shields.io/badge/C-263748?style=flat-square&logo=c&logoColor=9CDCFE)">
-  <img alt="C++" src="[https://img.shields.io/badge/C%2B%2B-263748?style=flat-square&logo=cplusplus&logoColor=9CDCFE](https://img.shields.io/badge/C%2B%2B-263748?style=flat-square&logo=cplusplus&logoColor=9CDCFE)">
-  <img alt="PHP" src="[https://img.shields.io/badge/PHP-263748?style=flat-square&logo=php&logoColor=9CDCFE](https://img.shields.io/badge/PHP-263748?style=flat-square&logo=php&logoColor=9CDCFE)">
-  <img alt="JavaScript" src="[https://img.shields.io/badge/JavaScript-263748?style=flat-square&logo=javascript&logoColor=9CDCFE](https://img.shields.io/badge/JavaScript-263748?style=flat-square&logo=javascript&logoColor=9CDCFE)">
-  <img alt="SQL" src="[https://img.shields.io/badge/SQL-263748?style=flat-square&logo=postgresql&logoColor=9CDCFE](https://img.shields.io/badge/SQL-263748?style=flat-square&logo=postgresql&logoColor=9CDCFE)">
-  <img alt="HTML5" src="[https://img.shields.io/badge/HTML5-263748?style=flat-square&logo=html5&logoColor=9CDCFE](https://img.shields.io/badge/HTML5-263748?style=flat-square&logo=html5&logoColor=9CDCFE)">
-  <img alt="CSS3" src="[https://img.shields.io/badge/CSS3-263748?style=flat-square&logo=css&logoColor=9CDCFE](https://img.shields.io/badge/CSS3-263748?style=flat-square&logo=css&logoColor=9CDCFE)">
+  <img alt="Python" src="https://img.shields.io/badge/Python-263748?style=flat-square&logo=python&logoColor=9CDCFE">
+  <img alt="Java" src="https://img.shields.io/badge/Java-263748?style=flat-square&logo=openjdk&logoColor=9CDCFE">
+  <img alt="C" src="https://img.shields.io/badge/C-263748?style=flat-square&logo=c&logoColor=9CDCFE">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-263748?style=flat-square&logo=cplusplus&logoColor=9CDCFE">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-263748?style=flat-square&logo=php&logoColor=9CDCFE">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-263748?style=flat-square&logo=javascript&logoColor=9CDCFE">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-263748?style=flat-square&logo=postgresql&logoColor=9CDCFE">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-263748?style=flat-square&logo=html5&logoColor=9CDCFE">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-263748?style=flat-square&logo=css&logoColor=9CDCFE">
+</p>
+
+<p>
+  <strong>AI & Computer Vision</strong><br>
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-3D2638?style=flat-square&logo=opencv&logoColor=F472B6">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-3D2638?style=flat-square&logo=numpy&logoColor=F472B6">
+  <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-3D2638?style=flat-square&logoColor=F472B6">
+  <img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-3D2638?style=flat-square&logoColor=F472B6">
 </p>
 
 <p>
   <strong>Web & Backend</strong><br>
-  <img alt="React" src="[https://img.shields.io/badge/React-203D46?style=flat-square&logo=react&logoColor=79DDEB](https://img.shields.io/badge/React-203D46?style=flat-square&logo=react&logoColor=79DDEB)">
-  <img alt="Laravel" src="[https://img.shields.io/badge/Laravel-203D46?style=flat-square&logo=laravel&logoColor=79DDEB](https://img.shields.io/badge/Laravel-203D46?style=flat-square&logo=laravel&logoColor=79DDEB)">
-  <img alt="Node.js" src="[https://img.shields.io/badge/Node.js-203D46?style=flat-square&logo=nodedotjs&logoColor=79DDEB](https://img.shields.io/badge/Node.js-203D46?style=flat-square&logo=nodedotjs&logoColor=79DDEB)">
-  <img alt="Tailwind CSS" src="[https://img.shields.io/badge/Tailwind%20CSS-203D46?style=flat-square&logo=tailwindcss&logoColor=79DDEB](https://img.shields.io/badge/Tailwind%20CSS-203D46?style=flat-square&logo=tailwindcss&logoColor=79DDEB)">
-  <img alt="PostgreSQL" src="[https://img.shields.io/badge/PostgreSQL-283D33?style=flat-square&logo=postgresql&logoColor=9BDD98](https://img.shields.io/badge/PostgreSQL-283D33?style=flat-square&logo=postgresql&logoColor=9BDD98)">
-  <img alt="MySQL" src="[https://img.shields.io/badge/MySQL-283D33?style=flat-square&logo=mysql&logoColor=9BDD98](https://img.shields.io/badge/MySQL-283D33?style=flat-square&logo=mysql&logoColor=9BDD98)">
-  <img alt="Supabase" src="[https://img.shields.io/badge/Supabase-283D33?style=flat-square&logo=supabase&logoColor=9BDD98](https://img.shields.io/badge/Supabase-283D33?style=flat-square&logo=supabase&logoColor=9BDD98)">
+  <img alt="React" src="https://img.shields.io/badge/React-203D46?style=flat-square&logo=react&logoColor=79DDEB">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-203D46?style=flat-square&logo=laravel&logoColor=79DDEB">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-203D46?style=flat-square&logo=nodedotjs&logoColor=79DDEB">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-203D46?style=flat-square&logo=tailwindcss&logoColor=79DDEB">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-283D33?style=flat-square&logo=postgresql&logoColor=9BDD98">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-283D33?style=flat-square&logo=mysql&logoColor=9BDD98">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-283D33?style=flat-square&logo=supabase&logoColor=9BDD98">
 </p>
 
 <p>
   <strong>Tools, Cloud & Infrastructure</strong><br>
-  <img alt="Linux" src="[https://img.shields.io/badge/Linux-342E45?style=flat-square&logo=linux&logoColor=C4B5FD](https://img.shields.io/badge/Linux-342E45?style=flat-square&logo=linux&logoColor=C4B5FD)">
-  <img alt="Git" src="[https://img.shields.io/badge/Git-342E45?style=flat-square&logo=git&logoColor=C4B5FD](https://img.shields.io/badge/Git-342E45?style=flat-square&logo=git&logoColor=C4B5FD)">
-  <img alt="Vercel" src="[https://img.shields.io/badge/Vercel-342E45?style=flat-square&logo=vercel&logoColor=C4B5FD](https://img.shields.io/badge/Vercel-342E45?style=flat-square&logo=vercel&logoColor=C4B5FD)">
-  <img alt="Netlify" src="[https://img.shields.io/badge/Netlify-342E45?style=flat-square&logo=netlify&logoColor=C4B5FD](https://img.shields.io/badge/Netlify-342E45?style=flat-square&logo=netlify&logoColor=C4B5FD)">
-  <img alt="Cisco" src="[https://img.shields.io/badge/Cisco-342E45?style=flat-square&logo=cisco&logoColor=C4B5FD](https://img.shields.io/badge/Cisco-342E45?style=flat-square&logo=cisco&logoColor=C4B5FD)">
-  <img alt="MikroTik" src="[https://img.shields.io/badge/MikroTik-342E45?style=flat-square&logo=mikrotik&logoColor=C4B5FD](https://img.shields.io/badge/MikroTik-342E45?style=flat-square&logo=mikrotik&logoColor=C4B5FD)">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-342E45?style=flat-square&logo=linux&logoColor=C4B5FD">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-342E45?style=flat-square&logo=ubuntu&logoColor=C4B5FD">
+  <img alt="Git" src="https://img.shields.io/badge/Git-342E45?style=flat-square&logo=git&logoColor=C4B5FD">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-342E45?style=flat-square&logo=githubactions&logoColor=C4B5FD">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-342E45?style=flat-square&logo=vercel&logoColor=C4B5FD">
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-342E45?style=flat-square&logo=netlify&logoColor=C4B5FD">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-342E45?style=flat-square&logo=figma&logoColor=C4B5FD">
+  <img alt="Cisco" src="https://img.shields.io/badge/Cisco-342E45?style=flat-square&logo=cisco&logoColor=C4B5FD">
+  <img alt="MikroTik" src="https://img.shields.io/badge/MikroTik-342E45?style=flat-square&logo=mikrotik&logoColor=C4B5FD">
 </p>
 
 ---
@@ -177,8 +192,8 @@ flowchart TD
 
 <img align="right" src="./assets/workbench-scene.svg" width="174" alt="Animated workstation with a coding monitor, coffee, and a plant" />
 
-- **Building:** SakuFlow — automating personal finance tracking via WhatsApp Cloud API webhooks.
-- **Learning:** Computer Vision, AI Agents, and Human-Centered AI.
+- **Building:** [SakuFlow](https://github.com/AlhadiAzumi/SakuFlow) — automating personal finance tracking via WhatsApp Cloud API webhooks.
+- **Learning:** Computer Vision, AI Agents, and Human-Centered AI through Pijak 2027.
 - **Exploring:** Blue-team cybersecurity fundamentals and scalable backend architecture.
 
 ---
@@ -206,10 +221,10 @@ flowchart TD
 ## Elsewhere
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/alhadiazumi](https://www.linkedin.com/in/alhadiazumi)"><img src="[https://img.shields.io/badge/LinkedIn-Alhadi_Azumi-203D46?style=for-the-badge&logo=linkedin&logoColor=79DDEB](https://img.shields.io/badge/LinkedIn-Alhadi_Azumi-203D46?style=for-the-badge&logo=linkedin&logoColor=79DDEB)" alt="LinkedIn" /></a>
-  <a href="[https://www.instagram.com/alhdzm](https://www.instagram.com/alhdzm)"><img src="[https://img.shields.io/badge/Instagram-%40alhdzm-342E45?style=for-the-badge&logo=instagram&logoColor=C4B5FD](https://img.shields.io/badge/Instagram-%40alhdzm-342E45?style=for-the-badge&logo=instagram&logoColor=C4B5FD)" alt="Instagram" /></a>
-  <a href="[https://www.tiktok.com/@abcdefghadiyyy](https://www.tiktok.com/@abcdefghadiyyy)"><img src="[https://img.shields.io/badge/TikTok-%40abcdefghadiyyy-283D33?style=for-the-badge&logo=tiktok&logoColor=9BDD98](https://img.shields.io/badge/TikTok-%40abcdefghadiyyy-283D33?style=for-the-badge&logo=tiktok&logoColor=9BDD98)" alt="TikTok" /></a>
-  <a href="mailto:alhadiazumifw@gmail.com"><img src="[https://img.shields.io/badge/Email-alhadiazumifw%40gmail.com-263748?style=for-the-badge&logo=gmail&logoColor=79B8FF](https://img.shields.io/badge/Email-alhadiazumifw%40gmail.com-263748?style=for-the-badge&logo=gmail&logoColor=79B8FF)" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/alhadiazumi"><img src="https://img.shields.io/badge/LinkedIn-Alhadi_Azumi-203D46?style=for-the-badge&logo=linkedin&logoColor=79DDEB" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/alhdzm"><img src="https://img.shields.io/badge/Instagram-%40alhdzm-342E45?style=for-the-badge&logo=instagram&logoColor=C4B5FD" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@abcdefghadiyyy"><img src="https://img.shields.io/badge/TikTok-%40abcdefghadiyyy-283D33?style=for-the-badge&logo=tiktok&logoColor=9BDD98" alt="TikTok" /></a>
+  <a href="mailto:alhadiazumifw@gmail.com"><img src="https://img.shields.io/badge/Email-alhadiazumifw%40gmail.com-263748?style=for-the-badge&logo=gmail&logoColor=79B8FF" alt="Email" /></a>
 </p>
 
 ---

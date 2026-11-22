@@ -2,7 +2,7 @@ name: Refresh profile cards
 
 on:
   schedule:
-    - cron: "17 3 * * *" # Daily at 6:17 AM Saudi time
+    - cron: "17 3 * * *" # Daily at 10:17 AM WIB
   workflow_dispatch:
 
 permissions:
@@ -24,7 +24,7 @@ jobs:
         uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: HsHs-dev
+          username: AlhadiAzumi
           cards: overview,contributions
           output-dir: assets
           themes: light,dark
