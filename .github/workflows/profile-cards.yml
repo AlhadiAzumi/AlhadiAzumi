@@ -1,0 +1,32 @@
+name: Refresh profile cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # Daily at 6:17 AM Saudi time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v5
+
+      - name: Refresh contribution and overview cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: HsHs-dev
+          cards: overview,contributions
+          output-dir: assets
+          themes: light,dark
+          palette: blue
+          commit: true

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="174" viewBox="0 0 660 174" role="img" aria-labelledby="title desc">
+<title id="title">Workbench status</title><desc id="desc">Building Quoll; learning TypeScript / Full Stack Open; exploring Operating systems / architecture; latest public push Awaiting first public sync, pending first sync.</desc>
+<style>
+.cursor { animation:blink 1.4s steps(2,end) infinite; }
+.dot { animation:breathe 3s ease-in-out infinite; }
+@keyframes blink { 0%,49% {opacity:1} 50%,100% {opacity:0} }
+@keyframes breathe {0%,100% {opacity:.35} 50% {opacity:1} }
+@media(prefers-reduced-motion:reduce) {.cursor,.dot {animation:none!important;opacity:1} }
+</style>
+<rect x="1" y="1" width="658" height="172" rx="14" fill="#F6F9FE" stroke="#D4DFED" stroke-width="1.5" />
+<path d="M1 37H659" stroke="#D4DFED" stroke-width="1.2"/>
+<circle cx="19" cy="19" r="4" fill="#F19B99"/><circle cx="34" cy="19" r="4" fill="#F2BB71"/><circle cx="49" cy="19" r="4" fill="#9BDD98"/>
+<text x="72" y="23" font-family="ui-monospace,Consolas,monospace" font-size="13" fill="#5D7188">~/workbench</text>
+<circle class="dot" cx="527" cy="19" r="4" fill="#27754C"/>
+<text x="539" y="23" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#5D7188">in progress</text>
+<text x="22" y="64" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#235AA7">$</text>
+<text x="40" y="64" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#253346">status --now</text>
+<rect class="cursor" x="141" y="53" width="7" height="13" rx="1" fill="#087F91"/>
+<text x="22" y="94" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#5D7188">building</text>
+<text x="103" y="94" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#27754C">Quoll</text>
+<text x="22" y="119" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#5D7188">learning</text>
+<text x="103" y="119" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#087F91">TypeScript / Full Stack Open</text>
+<text x="22" y="144" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#5D7188">exploring</text>
+<text x="103" y="144" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#7252BB">Operating systems / architecture</text>
+<path d="M396 50V155" stroke="#D4DFED" stroke-dasharray="3 5"/>
+<rect x="413" y="57" width="219" height="91" rx="9" fill="#E6EFF8" />
+<text x="429" y="78" font-family="ui-monospace,Consolas,monospace" font-size="10" letter-spacing="1" fill="#5D7188">LAST PUBLIC REPO PUSH</text>
+<text x="429" y="102" font-family="ui-monospace,Consolas,monospace" font-size="14" font-weight="bold" fill="#A65B0E">Awaiting first public sync</text>
+<text x="429" y="123" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#5D7188">pending first sync</text>
+<text x="505" y="161" font-family="ui-monospace,Consolas,monospace" font-size="9" fill="#5D7188">sync 2026-11-11 UTC</text>
+</svg>

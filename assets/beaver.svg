@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-labelledby="title">
+  <title id="title">Playful forest beaver</title>
+  <style>
+    .eyes { transform-box: fill-box; transform-origin: center; animation: blink 5.6s infinite; }
+    @keyframes blink { 0%, 42%, 48%, 100% { transform: scaleY(1); } 45% { transform: scaleY(.08); } }
+    .ear { transform-origin: 38px 33px; animation: twitch 5.6s ease-in-out infinite; }
+    @keyframes twitch { 0%, 69%, 81%, 100% { transform: rotate(0); } 73% { transform: rotate(-8deg); } 77% { transform: rotate(3deg); } }
+    @media (prefers-reduced-motion: reduce) { .eyes,.ear { animation: none; } }
+  </style>
+  <!-- A crisp light keyline keeps the mark visible on dark backgrounds. -->
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <g class="ear">
+      <path d="M29 38 C17 31 20 15 33 15 C43 15 48 23 48 31 Z" fill="#325F4B" stroke="#F1EDE3" stroke-width="8"/>
+      <path d="M29 38 C17 31 20 15 33 15 C43 15 48 23 48 31 Z" fill="#325F4B" stroke="#202321" stroke-width="4"/>
+      <path d="M30 30 Q27 22 35 22 Q42 22 43 30" fill="#B97169"/>
+    </g>
+    <path d="M80 30 C80 17 92 12 100 19 C109 26 105 36 98 42 Z" fill="#325F4B" stroke="#F1EDE3" stroke-width="8"/>
+    <path d="M80 30 C80 17 92 12 100 19 C109 26 105 36 98 42 Z" fill="#325F4B" stroke="#202321" stroke-width="4"/>
+    <path d="M86 29 Q91 20 97 26 Q100 29 97 35" fill="#B97169"/>
+    <!-- A broad head and rounded cheeks, rather than a pointed rodent snout. -->
+    <path d="M27 42 C35 24 51 21 65 23 C81 21 96 31 102 45 C114 52 119 69 109 82 C108 94 91 107 66 111 C44 110 25 99 20 85 C10 76 13 57 27 42 Z" fill="#325F4B" stroke="#F1EDE3" stroke-width="8"/>
+    <path d="M27 42 C35 24 51 21 65 23 C81 21 96 31 102 45 C114 52 119 69 109 82 C108 94 91 107 66 111 C44 110 25 99 20 85 C10 76 13 57 27 42 Z" fill="#325F4B" stroke="#202321" stroke-width="4"/>
+    <!-- The asymmetric brows add curiosity without extra decoration. -->
+    <path d="M34 47 Q43 38 53 44 M77 44 Q87 42 93 49" stroke="#202321" stroke-width="4.3" fill="none"/>
+    <g class="eyes" fill="#202321">
+      <ellipse cx="46" cy="56" rx="5" ry="6.5"/>
+      <ellipse cx="84" cy="56" rx="5" ry="6.5"/>
+      <circle cx="47.4" cy="53.8" r="1.4" fill="#F1EDE3"/>
+      <circle cx="85.4" cy="53.8" r="1.4" fill="#F1EDE3"/>
+    </g>
+    <!-- Two broad muzzle lobes and prominent beaver incisors. -->
+    <path d="M64 65 C48 56 29 60 27 73 C25 85 43 94 64 86 C83 95 104 86 103 73 C102 61 80 57 64 65 Z" fill="#F1EDE3" stroke="#202321" stroke-width="3.5"/>
+    <path d="M53 83 L53 96 Q53 101 58 101 L70 101 Q75 101 75 96 L75 83 Z" fill="#F1EDE3" stroke="#202321" stroke-width="3.5"/>
+    <path d="M64 87 V100" stroke="#202321" stroke-width="2.7"/>
+    <path d="M54 65 Q64 60 74 65 Q77 69 70 74 Q64 78 58 74 Q51 69 54 65 Z" fill="#202321"/>
+    <path d="M64 74 V79 M42 77 Q49 87 64 82 Q79 87 87 77" stroke="#202321" stroke-width="3.2" fill="none"/>
+    <path d="M32 75 L39 73 M33 81 L40 79 M89 73 L96 75 M88 79 L95 81" stroke="#718078" stroke-width="1.8"/>
+  </g>
+</svg>

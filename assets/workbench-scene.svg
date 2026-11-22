@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="248" height="178" viewBox="0 0 248 178" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Tiny developer workbench</title>
+<desc id="dsc">A small cheerful desk with an animated code monitor, steaming mug, and gently growing plant.</desc>
+<style>
+  .screen-cursor {animation: blink 1.25s steps(2,end) infinite;}
+  .code-a {animation: code-pulse 4s ease-in-out infinite;}
+  .code-b {animation: code-pulse 4s ease-in-out 1.15s infinite;}
+  .steam-a {animation: steam 3.4s ease-in-out infinite;}
+  .steam-b {animation: steam 3.4s ease-in-out 1.2s infinite;}
+  .leaf {transform-origin:197px 112px; animation:sway 5.5s ease-in-out infinite;}
+  .signal {animation: light 3.8s ease-in-out infinite;}
+  .signal2 {animation: light 3.8s ease-in-out 1.9s infinite;}
+  .star {animation:twinkle 4.5s ease-in-out infinite;}
+  .star2 {animation:twinkle 4.5s ease-in-out 1.8s infinite;}
+  @keyframes blink {0%,48%{opacity:1}50%,100%{opacity:0}}
+  @keyframes code-pulse {0%,100%{opacity:.57}50%{opacity:1}}
+  @keyframes steam {0%{opacity:0;transform:translateY(7px)}40%{opacity:.7}100%{opacity:0;transform:translateY(-8px)}}
+  @keyframes sway {0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}
+  @keyframes light {0%,100%{opacity:.35}35%,65%{opacity:1}}
+  @keyframes twinkle {0%,100%{opacity:.3;transform:scale(.82)}50%{opacity:1;transform:scale(1.12)}}
+  @media(prefers-reduced-motion:reduce){.screen-cursor,.code-a,.code-b,.steam-a,.steam-b,.leaf,.signal,.signal2,.star,.star2{animation:none!important;opacity:1}}
+</style>
+<!-- Tiny peripheral sparkles, no background card -->
+<g fill="none" stroke-linecap="round">
+  <path class="star" d="M192 23v10m-5-5h10" stroke="#B9A1FF" stroke-width="2"/>
+  <path class="star2" d="M30 43v6m-3-3h6" stroke="#F5B875" stroke-width="1.8"/>
+  <circle cx="222" cy="54" r="2.2" fill="#79DDEB"/>
+  <circle class="signal2" cx="15" cy="84" r="1.9" fill="#9BDD98"/>
+</g>
+<!-- Desk linework -->
+<path d="M14 137 Q15 133 21 133 H225 Q231 133 233 137 L239 143 Q242 148 235 148 H12 Q5 148 10 142 Z" fill="#29374D" stroke="#647B98" stroke-width="2"/>
+<path d="M21 139H226" stroke="#86B2D0" stroke-width="1.5" opacity=".7"/>
+<path d="M28 148V160M221 148V160" stroke="#647B98" stroke-width="3" stroke-linecap="round"/>
+<!-- Monitor shadows and angled support -->
+<ellipse cx="120" cy="128" rx="55" ry="7" fill="#0E1726" opacity=".14"/>
+<path d="M111 113h19l-3 19h-13z" fill="#64748B" stroke="#34485D" stroke-width="1.5"/>
+<path d="M97 132h48l-5 5h-38z" fill="#3A506C" stroke="#7895B7" stroke-width="1.5"/>
+<rect x="65" y="24" width="115" height="94" rx="10" fill="#475C76" stroke="#28364D" stroke-width="3"/>
+<rect x="72" y="31" width="101" height="74" rx="5" fill="#111F30" stroke="#738FB1" stroke-width="1"/>
+<!-- Screen's top toolbar -->
+<path d="M72 48H173" stroke="#395069" stroke-width="1.3"/>
+<circle cx="81" cy="39" r="2.7" fill="#F3989B"/>
+<circle cx="90" cy="39" r="2.7" fill="#F2C075"/>
+<circle cx="99" cy="39" r="2.7" fill="#9BDD98"/>
+<text x="159" y="42" font-size="6.2" font-family="monospace" fill="#8499B2" text-anchor="end">~/dev</text>
+<!-- Minimal actual syntax-looking pixels -->
+<path d="M82 59h12" stroke="#C4B5FD" stroke-width="3.4" stroke-linecap="round"/>
+<path class="code-a" d="M99 59h28" stroke="#79DDEB" stroke-width="3.4" stroke-linecap="round"/>
+<path d="M132 59h20" stroke="#9BDD98" stroke-width="3.4" stroke-linecap="round" opacity=".7"/>
+<path d="M89 70h22" stroke="#79B8FF" stroke-width="3.4" stroke-linecap="round"/>
+<path class="code-b" d="M116 70h42" stroke="#C4B5FD" stroke-width="3.4" stroke-linecap="round"/>
+<path d="M89 81h12" stroke="#9BDD98" stroke-width="3.4" stroke-linecap="round"/>
+<path class="code-a" d="M106 81h24" stroke="#F2BB71" stroke-width="3.4" stroke-linecap="round"/>
+<path class="screen-cursor" d="M136 77v9" stroke="#79DDEB" stroke-width="3" stroke-linecap="round"/>
+<path d="M80 94h49" stroke="#34495F" stroke-width="2"/>
+<circle class="signal" cx="162" cy="94" r="3" fill="#9BDD98"/>
+<circle cx="121" cy="111" r="2" fill="#9DD5E4"/>
+<!-- Tiny keyboard -->
+<path d="M73 137l6-7h43l7 7z" fill="#C9D5E8" stroke="#647A98" stroke-width="1.4"/>
+<path d="M82 134h37M86 132h29" stroke="#8FA2BB" stroke-width="1.5" stroke-dasharray="3 3"/>
+<!-- Coffee mug with steam -->
+<path d="M31 105H57v26q-13 9-26 0z" fill="#79DDEB" stroke="#366B85" stroke-width="2"/>
+<path d="M57 111h6q9 0 6 11-3 8-12 5" stroke="#366B85" stroke-width="3" fill="none"/>
+<ellipse cx="44" cy="105" rx="13" ry="4" fill="#E9F6F6" stroke="#366B85" stroke-width="1.8"/>
+<ellipse cx="44" cy="105" rx="9" ry="2" fill="#BA7750"/>
+<path class="steam-a" d="M39 95c-6-8 7-10 1-19" stroke="#79DDEB" stroke-width="2.3" stroke-linecap="round" fill="none"/>
+<path class="steam-b" d="M49 93c6-8-6-10 0-20" stroke="#A6A2DE" stroke-width="2" stroke-linecap="round" fill="none"/>
+<!-- Little plant in a pot -->
+<path d="M188 119h27l-4 18h-19z" fill="#F2BB71" stroke="#B87850" stroke-width="2"/>
+<path d="M184 116h35v5h-35z" fill="#F4D0A1" stroke="#B87850" stroke-width="1.5"/>
+<g class="leaf">
+  <path d="M199 116V78" stroke="#40856A" stroke-width="2.6" fill="none"/>
+  <path d="M199 105q-18 0-21-21 19-1 21 21Z" fill="#9BDD98" stroke="#3E8B73" stroke-width="1.7"/>
+  <path d="M199 91q18-22 28-17-4 22-28 17Z" fill="#79C7AC" stroke="#3E8B73" stroke-width="1.7"/>
+  <path d="M199 80q-11-14-3-23 14 12 3 23Z" fill="#B5D898" stroke="#3E8B73" stroke-width="1.7"/>
+  <path d="M199 106l-11-13m11-4 17-8" stroke="#3E8B73" stroke-width="1.3" fill="none" opacity=".8"/>
+</g>
+<path d="M186 146h-37" stroke="#A68BDF" stroke-width="2" opacity=".65" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="100" viewBox="0 0 176 100" role="img" aria-label="Playful miniature terminal with a colorful command prompt">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172535"/><stop offset="1" stop-color="#1F233C"/></linearGradient>
+ </defs>
+ <rect x="6" y="7" width="163" height="86" rx="13" fill="#090E18" opacity=".2"/>
+ <rect x="3" y="3" width="163" height="86" rx="13" fill="url(#bg)" stroke="#526079" stroke-width="1.2"/>
+ <path d="M3 26h163" stroke="#435269"/>
+ <circle cx="17" cy="15.5" r="3.1" fill="#F2A49B"/>
+ <circle cx="28" cy="15.5" r="3.1" fill="#F2BB71"/>
+ <circle cx="39" cy="15.5" r="3.1" fill="#9BDD98"/>
+ <text x="56" y="19" fill="#96A9BF" font-family="monospace" font-size="9">~/workbench</text>
+ <text x="15" y="46" fill="#79DDEB" font-family="monospace" font-size="13" font-weight="bold">&gt;</text>
+ <text x="28" y="46" fill="#E8EDFC" font-family="monospace" font-size="12">build --curious</text>
+ <rect x="15" y="58" width="92" height="5" rx="2.5" fill="#36445B"/>
+ <rect x="15" y="58" width="58" height="5" rx="2.5" fill="#9BDD98"/>
+ <circle cx="119" cy="60.5" r="3" fill="#C4B5FD"/>
+ <path d="M137 48l3 7 8 1-6 5 2 8-7-4-6 4 1-8-6-5 8-1Z" fill="#F2BB71"/>
+ <circle cx="158" cy="36" r="2" fill="#79DDEB"/>
+ <circle cx="154" cy="75" r="2" fill="#C4B5FD"/>
+ <text x="15" y="77" fill="#89A3BD" font-family="monospace" font-size="9">learning in progress</text>
+</svg>

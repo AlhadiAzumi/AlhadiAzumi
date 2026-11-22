@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" role="img" aria-label="Pulsing colorful spark">
+<title>Pulsing spark</title>
+<style>
+.core { transform-origin:22px 22px; animation: pulse 3.8s ease-in-out infinite; }
+.halo { transform-origin:22px 22px; animation: breathe 3.8s ease-in-out infinite; }
+.dot { animation: blink 4.4s ease-in-out infinite; }
+.dot2 { animation-delay: 1.5s; }
+@keyframes pulse { 0%,100% { transform:scale(.93) } 50% { transform:scale(1.12) } }
+@keyframes breathe { 0%,100% {opacity:.16;transform:scale(.78)} 50%{opacity:.45;transform:scale(1.17)} }
+@keyframes blink { 0%,100% {opacity:.45} 50%{opacity:1} }
+@media (prefers-reduced-motion:reduce){ .core,.halo,.dot { animation:none !important; } }
+</style>
+<circle class="halo" cx="22" cy="22" r="18" fill="none" stroke="#79B8FF" stroke-width="1.8"/>
+<g class="core">
+<path d="M22 5 26 17.5 39 22 26 26.5 22 39 18 26.5 5 22 18 17.5Z" fill="#F2BB71"/>
+<path d="M22 10 25 19 34 22 25 25 22 34 19 25 10 22 19 19Z" fill="#FFE6AB"/>
+</g>
+<circle class="dot" cx="37" cy="7" r="2.5" fill="#C4B5FD"/>
+<circle class="dot dot2" cx="8" cy="37" r="2.5" fill="#79DDEB"/>
+</svg>

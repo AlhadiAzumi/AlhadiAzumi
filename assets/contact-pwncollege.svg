@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="306" height="42" viewBox="0 0 306 42" role="img" aria-labelledby="title">
+  <title id="title">pwn.college — Where I learn to hack</title>
+  <defs>
+    <clipPath id="badge"><rect x=".5" y=".5" width="305" height="41" rx="8"/></clipPath>
+  </defs>
+  <rect x=".5" y=".5" width="305" height="41" rx="8" fill="#FFB200"/>
+  <!-- Favicon recreated as vector shapes from the supplied image. -->
+  <rect x="10" y="8" width="26" height="26" rx="5" fill="#111111"/>
+  <rect x="12" y="10" width="22" height="22" rx="2.75" fill="#FFC627"/>
+  <circle cx="23" cy="21" r="4.125" fill="#000000"/>
+  <text x="46" y="26" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" fill="#111111"><tspan font-weight="700">pwn.college</tspan><tspan> · Where I learn to hack</tspan></text>
+  <!-- Two flat identity-color accents, with no background patterns. -->
+  <g clip-path="url(#badge)">
+    <rect x="290" y="0" width="8" height="42" fill="#78BE20"/>
+    <rect x="298" y="0" width="8" height="42" fill="#00A3E0"/>
+  </g>
+</svg>
