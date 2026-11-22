@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mascot.gif" width="196" height="196" alt="Alhadi Azumi" />
+  <img src="./assets/mascot.svg" width="196" height="196" alt="Alhadi Azumi" />
 </p>
 
 <h1 align="center">Alhadi Azumi <img src="./assets/spark.svg" width="34" height="34" alt="" /></h1>
