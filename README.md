@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://sakuflow-mu.vercel.app">
-    <strong>🌐 Featured Project: SakuFlow</strong>
+  <a href="https://sakunode.web.id">
+    <strong>🌐 Featured Project: Sakunode</strong>
   </a>
 </p>
 
