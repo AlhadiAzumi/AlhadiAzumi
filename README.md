@@ -39,14 +39,14 @@ A selection of applications, AI experiments, and systems I've built along the wa
 
 | Project | Under the hood |
 | :--- | :--- |
-| **[SIGAP](https://github.com/AlhadiAzumi/SIGAP)** <br> <sub>Python · Computer Vision</sub> | Real-time CCTV-based fall detection system built for MAKE IT FEST 3 (2nd Place Winner). |
+| **[SIGAP](https://github.com/AlhadiAzumi/SIGAP)** <br> <sub>Python · Computer Vision</sub> | Real-time CCTV-based fall detection system built for MAKE IT FEST III (2nd Place Winner — HIMATIF UNSAM). |
 | **[Answer Sheet Scanner](https://github.com/AlhadiAzumi/Website-Pengecekan-Jawaban-Pilgan)** <br> <sub>Python · Image Processing</sub> | Automated multiple-choice optical answer sheet scanner and grading web application. |
 
 ### 🌐 Full-Stack & Web Applications
 
 | Project | Under the hood |
 | :--- | :--- |
-| **[SakuFlow](https://sakuflow-mu.vercel.app)** · [Source](https://github.com/AlhadiAzumi/SakuFlow) <br> <sub>Web · WhatsApp Cloud API · Vercel</sub> | Personal finance tracking web app integrated with a WhatsApp bot via webhooks. |
+| **[Sakunode](https://sakunode.web.id)** · [Source](https://github.com/AlhadiAzumi/Sakunode) <br> <sub>Web · WhatsApp Cloud API · Vercel</sub> | Personal finance tracking web app integrated with a WhatsApp bot via webhooks. |
 | **[Campus Lost & Found](https://campuslostandfound.web.id)** · [Source](https://github.com/AlhadiAzumi/Lost-Found) <br> <sub>Laravel · PostgreSQL · Supabase</sub> | Centralized campus lost-and-found portal developed as Project Manager. |
 | **[Pseudonym](https://pseudonym.site)** · [Source](https://github.com/AlhadiAzumi/pseudonym) <br> <sub>PostgreSQL · Supabase · Vercel</sub> | Anonymous messaging platform migrated from MySQL to Supabase PostgreSQL. |
 | **[Cyber-Tasker](https://github.com/AlhadiAzumi/CyberTasker)** <br> <sub>Web · Netlify</sub> | Academic task management web app with separate lecturer and student dashboards. |
@@ -80,7 +80,7 @@ flowchart TD
 
     WEB --> FE["Frontend & UI<br/>HTML · CSS · JS · React.js"]
     FE --> BE["Backend & Databases<br/>Laravel · PostgreSQL · Supabase"]
-    BE --> WEBP["Built:<br/>SakuFlow · Campus Lost & Found<br/>Pseudonym · TI 2B Portal"]
+    BE --> WEBP["Built:<br/>Sakunode · Campus Lost & Found<br/>Pseudonym · TI 2B Portal"]
 
     AI --> SCI["Scientific Computing<br/>Python · Digital Image Processing"]
     SCI --> AGENT["AI Engineering<br/>Model Mechanics · AI Agents"]
@@ -102,7 +102,7 @@ flowchart TD
     click AI "[https://github.com/AlhadiAzumi/SIGAP](https://github.com/AlhadiAzumi/SIGAP)" "Explore SIGAP Computer Vision" _blank
     click AIP "[https://github.com/AlhadiAzumi/Website-Pengecekan-Jawaban-Pilgan](https://github.com/AlhadiAzumi/Website-Pengecekan-Jawaban-Pilgan)" "Explore Image Processing Project" _blank
     click WEB "[https://github.com/AlhadiAzumi/Lost-Found](https://github.com/AlhadiAzumi/Lost-Found)" "Explore Full-Stack Web Projects" _blank
-    click WEBP "[https://github.com/AlhadiAzumi/SakuFlow](https://github.com/AlhadiAzumi/SakuFlow)" "Explore SakuFlow" _blank
+    click WEBP "[https://github.com/AlhadiAzumi/Sakunode](https://github.com/AlhadiAzumi/Sakunode)" "Explore Sakunode" _blank
     click NOW "[https://github.com/AlhadiAzumi](https://github.com/AlhadiAzumi)" "See current GitHub activity" _blank
 
     %% Styles
@@ -132,7 +132,7 @@ flowchart TD
 | Area | Highlights |
 | :--- | :--- |
 | **Competitive Programming** | 1st Place — OSN Informatics Kota Langsa (2024) |
-| **AI & Computer Vision** | 2nd Place Mini Hackathon MAKE IT FEST 3 (SIGAP) · Dicoding Belajar Dasar AI · Mercor Model Mechanics & Agents |
+| **AI & Computer Vision** | 2nd Place Mini Hackathon MAKE IT FEST III — HIMATIF UNSAM (SIGAP) · Dicoding Belajar Dasar AI · Mercor Model Mechanics & Agents |
 | **Programs & Cloud** | Pijak 2027 (IBM SkillsBuild × Dicoding) · Scientific Computing with Python (freeCodeCamp) · Google Skills Arcade 2026 |
 | **Cybersecurity** | Certified Blue Team Fundamentals (BTF) · Certified Cyber Security Analyst (C3SA) |
 | **Campus & Leadership** | Digihub Staff — KOMIT PNL · Executive Secretary — Cyber Day 2026 · Project Manager — Campus Lost & Found |
@@ -192,7 +192,7 @@ flowchart TD
 
 <img align="right" src="./assets/workbench-scene.svg" width="174" alt="Animated workstation with a coding monitor, coffee, and a plant" />
 
-- **Building:** [SakuFlow](https://github.com/AlhadiAzumi/SakuFlow) — automating personal finance tracking via WhatsApp Cloud API webhooks.
+- **Building:** [Sakunode](https://sakunode.web.id) — automating personal finance tracking via WhatsApp Cloud API webhooks.
 - **Learning:** Computer Vision, AI Agents, and Human-Centered AI through Pijak 2027.
 - **Exploring:** Blue-team cybersecurity fundamentals and scalable backend architecture.
 
